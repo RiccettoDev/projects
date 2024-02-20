@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": "c964",
+      "name": "Implantação",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 1500,
+      "services": [
+        {
+          "name": "Contratação AWS",
+          "cost": "500",
+          "description": "Contratação de plano de serviços da AWS",
+          "id": "ae2861aa-5522-4e02-808e-831d3880cc02"
+        },
+        {
+          "name": "Contratação de servidores Azure",
+          "cost": "1000",
+          "description": "Contratação de servidores Azure para virtualização de máquinas",
+          "id": "42d2c3ed-752f-4652-9220-d6700e047211"
+        }
+      ]
+    },
+    {
+      "id": "7a49",
+      "name": "App Mobile",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "Contratar plano da Play Store",
+          "cost": "300",
+          "description": "Cadastro de desenvolvedor para publicação de APP na Play Store",
+          "id": "c8f10852-8abf-4648-b558-969ae3edd1d9"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}

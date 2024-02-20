@@ -1,0 +1,30 @@
+.container {
+  background-color: brown;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  align-items: center;
+}
+
+.link {
+  color: white;
+  margin: 1rem;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+  opacity: 50%;
+}
+
+.containerImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  margin-right: 65%;
+}
+
+.logo{
+  width: 45px;
+  height: 45px;
+}
