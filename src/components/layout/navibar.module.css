@@ -28,3 +28,18 @@
   width: 45px;
   height: 45px;
 }
+
+@media screen and (max-width: 1080px){
+  .container {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10em;
+    padding-right: 9em;
+  }
+
+  .containerImg{
+    width: 100%;
+  }
+
+}

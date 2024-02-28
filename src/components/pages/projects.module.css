@@ -7,3 +7,20 @@
   justify-content: space-between;
   margin-bottom: 2em;
 }
+
+@media screen and (max-width: 1080px){
+  .projectContainer {
+    max-width: 370px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .titleContainer {
+    font-size: 12px;
+  }
+
+  .titleContainer h1 {
+    margin: 1em;
+  }
+}

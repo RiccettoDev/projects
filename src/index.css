@@ -9,3 +9,9 @@ html, body, #root {
   background-color: #EFEFEF;
   height: 100%;
 }
+
+@media screen and (max-width: 1080px){
+  body {
+    max-width: 400px;
+  }  
+}

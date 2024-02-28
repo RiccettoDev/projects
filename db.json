@@ -8,7 +8,7 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 1500,
+      "cost": 1590,
       "services": [
         {
           "name": "Contratação AWS",
@@ -21,6 +21,24 @@
           "cost": "1000",
           "description": "Contratação de servidores Azure para virtualização de máquinas",
           "id": "42d2c3ed-752f-4652-9220-d6700e047211"
+        },
+        {
+          "name": "asjhdbjabdj ajknbfdjkbjki jksdbfjkis jandsjfhn",
+          "cost": "50",
+          "description": "ajhbfjhbasd mjkadbjhbsiaj jiadbjkifbjda jusbdjibhfc mjubhjibhf jubhdjbhds jbjkbdfc m",
+          "id": "c0aab103-0b39-4b0d-9e1d-824566b1dd42"
+        },
+        {
+          "name": "ddfadfew",
+          "cost": "20",
+          "description": "sdvfswdevf",
+          "id": "d13a8afb-1cef-4bf5-b774-2548e9595594"
+        },
+        {
+          "name": "shdbvjhsdbjh",
+          "cost": "20",
+          "description": "çlfmdbvklsf nsdjknhfjkosd jknjksbdn jknsdjkfn",
+          "id": "4923f483-ab89-4f82-bf17-e8ea1b3f0a48"
         }
       ]
     },
@@ -41,6 +59,17 @@
           "id": "c8f10852-8abf-4648-b558-969ae3edd1d9"
         }
       ]
+    },
+    {
+      "id": "954c",
+      "name": "teste teste",
+      "budget": "514564",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [

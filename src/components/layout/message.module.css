@@ -19,3 +19,12 @@
   background-color: #f8d7da;
   border-color: #f5c6cb;
 }
+
+@media screen and (max-width: 1080px){
+  .message {
+    margin: 0;
+    padding: 0;
+    max-width: 370px;
+    padding: 1em;
+  }
+}

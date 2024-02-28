@@ -9,3 +9,14 @@
 .btn:hover {
   color: #ffbb33;
 }
+
+@media screen and (max-width: 1080px){
+  .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}

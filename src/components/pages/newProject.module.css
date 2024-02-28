@@ -11,3 +11,16 @@
 .newProjectContainer p {
   color: #7b7b7b;
 }
+
+.newProject {
+  padding: 1em;
+}
+
+@media screen and (max-width: 1080px){
+  .newProjectContainer {
+    margin: 0;
+    padding: 0;
+    max-width: 370px;
+    padding: 1em;
+  }
+}

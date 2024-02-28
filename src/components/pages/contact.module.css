@@ -1,10 +1,16 @@
 .homeContainer {
   width: 100%;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 1em;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .homeContainer h1 {
@@ -26,4 +32,12 @@
 .homeContainer img {
   width: 250px;
   margin: 1em 0;
+}
+
+@media screen and (max-width: 1080px){
+  .homeContainer{
+    margin: 0;
+    padding: 0;
+    max-width: 370px;
+  }
 }
