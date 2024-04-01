@@ -1,14 +1,14 @@
-Click here to change the language:
+Clique aqui para alterar o idioma:
 
 [![flag-eua](./src/img/doc/eua.png)](./README.md) [![flag-brasil](./src/img/doc/brasil.png)](./README-pt-br.md)
 
 # Management
 
-**The Management** project is a project management application developed in React as part of the A Hora de Codar course taught by Matheus Battist. Incorporating basic concepts to advanced React techniques such as using hooks, routing, and API integration, the project provides students with a practical and comprehensive opportunity to apply acquired knowledge, empowering them for future projects and professional challenges. Additionally, it features a responsive layout for mobile devices and for a complete experience with the active backend, it's required to access the repository and run it locally on your own machine.
+O projeto **Management** é uma aplicação de gerenciamento de projetos desenvolvida em React como parte do curso A Hora de Codar ministrado por Matheus Battist. Incorporando desde conceitos básicos até técnicas avançadas do React, como o uso de hooks, roteamento e integração com APIs, o projeto oferece aos alunos uma oportunidade prática e abrangente de aplicar conhecimentos adquiridos, capacitando-os para projetos futuros e desafios profissionais. Além disso, possui um layout responsivo para dispositivos móveis e, para uma experiência completa com o backend ativo, é necessário acessar o repositório e executá-lo localmente em sua própria máquina.
 
 <br>
 
-:computer: [Click here to access the application](https://projects-five-alpha.vercel.app/)
+:computer: [Clique aqui para acessar a aplicação](https://projects-five-alpha.vercel.app/)
 
 <br>
 
@@ -16,7 +16,7 @@ Click here to change the language:
 
 <br>
 
-## Technologies
+## Tecnologias
 
 ![Static Badge](https://img.shields.io/badge/React-242424?style=for-the-badge&logo=react&logoColor=00d9ff&labelColor=242424)
 ![Static Badge](https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&logo=javascript&logoColor=ffff00&labelColor=242424)
@@ -32,7 +32,7 @@ Click here to change the language:
 ![Static Badge](https://img.shields.io/badge/Git-ec6231?style=for-the-badge&logo=git&logoColor=fff&labelColor=ec6231)
 ![Static Badge](https://img.shields.io/badge/vercel-242424?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=242424)
 
-## Dependencies:
+## Dependencias:
 
 - json-server;
 - react;
@@ -43,27 +43,27 @@ Click here to change the language:
 - util;
 - uuid;
 
-## Getting Started
+## Começando
 
-This project can be used on your own machine after performing a **PUSH** of this repository.
+Este projeto pode ser usado em sua própria máquina após realizar um **PUSH** deste repositório.
 
 ### `npm install`
 
-To download and update all project libraries and dependencies
+Para baixar e atualizar todas as bibliotecas e dependências do projeto
 
 ### `npm run backend`
 
-To deploy the project's Node API
+Para subir a api node do projeto
 
 ### `npm start`
 
-Runs the application in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Executa aplicativo em modo desenvolvimento.\
+Abra [http://localhost:3000/](http://localhost:3000/) para vizualizá-lo em seu navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A pagina será recarregada quando você fizer alterações.\
+Você também pode ver quaisquer erros de lint no console.
 
-## Contact
+## Contato
 
 <div>
   <a href="https://portfolio-ten-lime-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portifolio-FF0000?style=for-the-badge&logo=unitednations&logoColor=white" target="_blank"></a>
